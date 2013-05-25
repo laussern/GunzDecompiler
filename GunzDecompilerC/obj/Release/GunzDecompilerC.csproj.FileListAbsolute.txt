@@ -1,0 +1,11 @@
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompilerC.Form1.resources
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompilerC.Properties.Resources.resources
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompilerC.csproj.GenerateResource.Cache
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\bin\Release\GunzDecompiler.exe.config
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\bin\Release\GunzDecompiler.exe
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\bin\Release\GunzDecompiler.pdb
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompiler.exe
+C:\Users\Kildare Lauser\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompiler.pdb
+C:\Users\Laussern\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\bin\Release\GunzDecompiler.exe.config
+C:\Users\Laussern\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompiler.exe
+C:\Users\Laussern\Documents\Visual Studio 2012\Projects\GunzDecompilerC\GunzDecompilerC\obj\Release\GunzDecompiler.pdb
